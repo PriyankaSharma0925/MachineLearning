@@ -1,3 +1,3 @@
 # MachineLearning
 
-Machine Learning A-Z™: Hands-On Python & R In Data Science form Udemy
+Machine Learning A-Z™: Hands-On Python & R In Data Science from Udemy
